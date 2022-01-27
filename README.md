@@ -1,5 +1,5 @@
 # GH-BLACK-HACK
-Kli linux parrot os  Termux
+Kali linux parrot os  Termnux
 
 git clone https://github.com/BLACK-HACK-669/GH-BLACK-HACK.git
 
